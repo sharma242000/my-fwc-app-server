@@ -1,0 +1,2 @@
+GET http://localhost:8000/user/users HTTP/1.1
+Authorization: 1234567890
